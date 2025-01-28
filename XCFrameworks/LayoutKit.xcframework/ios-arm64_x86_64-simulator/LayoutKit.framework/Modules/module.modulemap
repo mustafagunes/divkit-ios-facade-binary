@@ -1,0 +1,5 @@
+framework module LayoutKit {
+    header "LayoutKit-Swift.h"
+    export *
+    link framework "LayoutKitInterface"
+}

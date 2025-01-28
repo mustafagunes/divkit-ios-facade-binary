@@ -1,0 +1,4 @@
+framework module Serialization {
+    header "Serialization-Swift.h"
+    export *
+}

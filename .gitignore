@@ -1,0 +1,8 @@
+.DS_Store
+
+## Build generated
+build/
+DerivedData/
+
+## DivKit Artifacts
+divkit-ios-facade/

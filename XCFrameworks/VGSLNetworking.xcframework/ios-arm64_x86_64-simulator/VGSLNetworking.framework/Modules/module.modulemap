@@ -1,0 +1,6 @@
+framework module VGSLNetworking {
+    header "VGSLNetworking-Swift.h"
+    export *
+    link framework "VGSLFundamentals"
+    link framework "VGSLUI"
+}

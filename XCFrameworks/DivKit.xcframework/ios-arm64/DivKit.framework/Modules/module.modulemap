@@ -1,0 +1,6 @@
+framework module DivKit {
+    header "DivKit-Swift.h"
+    export *
+    link framework "LayoutKit"
+    link framework "Serialization"
+}

@@ -1,0 +1,5 @@
+framework module VGSLUI {
+    header "VGSLUI-Swift.h"
+    export *
+    link framework "VGSLFundamentals"
+}

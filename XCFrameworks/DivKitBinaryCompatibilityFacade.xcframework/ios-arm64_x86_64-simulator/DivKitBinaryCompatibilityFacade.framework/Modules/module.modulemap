@@ -1,0 +1,4 @@
+framework module DivKitBinaryCompatibilityFacade {
+    header "DivKitBinaryCompatibilityFacade-Swift.h"
+    export *
+}
